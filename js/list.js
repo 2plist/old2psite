@@ -21,8 +21,12 @@ const d = {
 			"handcam": true,
 			"hacked": false,
 			"verificationVid": "https://youtu.be/wu-t-yzCLgc",
-			"vids": ["link:": "https://youtu.be/JCMeu1EUQqE"
-				 "player": "random"
+			"vids": [
+				{
+					"percent": "100",
+					"link:": "https://youtu.be/JCMeu1EUQqE",
+					"player": "random"
+				},
 
 			],
 			"author": "Alphirox",
