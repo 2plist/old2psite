@@ -6,7 +6,7 @@ const d = {
 			"percentToQualify": "68",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/AM2KHSZkjcc",
 			"vids": [
 
 			],
@@ -20,8 +20,9 @@ const d = {
 			"percentToQualify": "54",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
-			"vids": [
+			"verificationVid": "https://youtu.be/wu-t-yzCLgc",
+			"vids": ["link:": "https://youtu.be/JCMeu1EUQqE"
+				 "player": "random"
 
 			],
 			"author": "Alphirox",
