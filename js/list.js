@@ -25,7 +25,12 @@ const d = {
 				{
 					"percent": "100",
 					"link": "https://youtu.be/JCMeu1EUQqE",
-					"player": "random"
+					"user": "random"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/gFH_vqv2IS8",
+					"user": "batle"
 				},
 
 			],
@@ -39,7 +44,7 @@ const d = {
 			"percentToQualify": "59",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/8CkIYWN89fM",
 			"vids": [
 
 			],
