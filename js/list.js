@@ -24,7 +24,7 @@ const d = {
 			"vids": [
 				{
 					"percent": "100",
-					"link:": "https://youtu.be/JCMeu1EUQqE",
+					"link": "https://youtu.be/JCMeu1EUQqE",
 					"player": "random"
 				},
 
