@@ -72,7 +72,7 @@ const d = {
 			"percentToQualify": "60",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/KsU0X2cII5Q",
 			"vids": [
 
 			],
@@ -86,7 +86,7 @@ const d = {
 			"percentToQualify": "38",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/c3CYS12K_ls",
 			"vids": [
 
 			],
@@ -100,7 +100,7 @@ const d = {
 			"percentToQualify": "68",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/IOMOcqO9-TQ",
 			"vids": [
 
 			],
@@ -114,7 +114,7 @@ const d = {
 			"percentToQualify": "74",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/5ebS5vqy-bk",
 			"vids": [
 
 			],
@@ -128,7 +128,7 @@ const d = {
 			"percentToQualify": "64",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/B1GKgUNT8Q0",
 			"vids": [
 
 			],
@@ -142,7 +142,7 @@ const d = {
 			"percentToQualify": "50",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/wkdYwF13QNA",
 			"vids": [
 
 			],
@@ -156,7 +156,7 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/oME6XOYpWTM",
 			"vids": [
 
 			],
@@ -170,7 +170,7 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/73pRiolPwTA",
 			"vids": [
 
 			],
@@ -184,7 +184,7 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/KbAUc_6fCPI",
 			"vids": [
 
 			],
@@ -198,7 +198,7 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/Q-kZ2swRSAI",
 			"vids": [
 
 			],
@@ -212,7 +212,7 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": true,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/VW_N4hZ-hrE",
 			"vids": [
 
 			],
