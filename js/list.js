@@ -217,7 +217,7 @@ const d = {
 
 			],
 			"author": "xDon",
-			"desc": ""
+			"desc": "It will be amazing to travel and see the cosmic dolphins with your colleague or by yourself! My first megacollab finished with 15 people ;)"
 		},
 		{
 			"key": "16",
@@ -226,12 +226,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/n4wOh8dpWc0",
 			"vids": [
 
 			],
 			"author": "Bluskys",
-			"desc": ""
+			"desc": "Friday Night Funkin inspired two-player level! Beat it with a friend or by yourself! Art by TorchicZK & PhantomArcade"
 		},
 		{
 			"key": "17",
@@ -240,12 +240,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/vZr9-BJrzKg",
 			"vids": [
 
 			],
 			"author": "Custi",
-			"desc": ""
+			"desc": "This was supposed to be way longer level but decided to cut it down to +1min, inspired by Araneo by Darwin. Good luck with the duals ;)"
 		},
 		{
 			"key": "18",
@@ -254,12 +254,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/CYD2qPacHxM",
 			"vids": [
 
 			],
 			"author": "RadiationV2",
-			"desc": ""
+			"desc": "After 6 years of wait, 1 year of work and 53k objs, heres the long awaited sequel to Flappy Dynamix. Very epic. Verified by NoobLookingPro"
 		},
 		{
 			"key": "19",
@@ -268,12 +268,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/-jugAwY_xzk",
 			"vids": [
 
 			],
 			"author": "KaptainCPU",
-			"desc": ""
+			"desc": "Collab with ShockR. Has about 15k objects. More levels coming soon!"
 		},
 		{
 			"key": "20",
@@ -282,12 +282,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/3exqGWo9LNw",
 			"vids": [
 
 			],
 			"author": "Custi",
-			"desc": ""
+			"desc": "Everything is 1.9 except coins. Also 2-player duals :-) Good luck."
 		},
 		{
 			"key": "21",
@@ -296,12 +296,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/uhxCvoQNJEw",
 			"vids": [
 
 			],
 			"author": "KeiAs",
-			"desc": ""
+			"desc": "Horntail is back..Can you beat it again?"
 		},
 		{
 			"key": "22",
@@ -310,12 +310,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/di2iGE6JJEs",
 			"vids": [
 
 			],
 			"author": "BAARBAS",
-			"desc": ""
+			"desc": "( Play with a friend) You and your friend entered an old, very old temple where you were not welcome... Made in 1 week, pass on my YouTube !"
 		},
 		{
 			"key": "23",
@@ -324,12 +324,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/KB6gV49AVg4",
 			"vids": [
 
 			],
 			"author": "Pan",
-			"desc": ""
+			"desc": "A catastrophe has happened in a factory! A large container of magma spilled, now everything is on fire! Its hotter than your mixtape!333666"
 		},
 		{
 			"key": "24",
@@ -338,12 +338,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/zrLZnv3iX7Q",
 			"vids": [
 
 			],
 			"author": "KeiAs",
-			"desc": ""
+			"desc": "20K Objects! Can you beat it?"
 		},
 		{
 			"key": "25",
@@ -352,12 +352,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/sJzvaZ99Sjo",
 			"vids": [
 
 			],
 			"author": "T3mpl4te",
-			"desc": ""
+			"desc": "Pass is 101010."
 		},
 		{
 			"key": "26",
@@ -366,12 +366,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/JpSsyDF5q5A",
 			"vids": [
 
 			],
 			"author": "CarlosArt16",
-			"desc": ""
+			"desc": "enjoy! :D"
 		},
 		{
 			"key": "27",
@@ -380,12 +380,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/lhNwI_BgyVI",
 			"vids": [
 
 			],
 			"author": "Ulasp",
-			"desc": ""
+			"desc": "My new level \"Ebony\" Hope you guys like it! Also there is a low detail mode if its laggy... This lvl is for Dorami CC1"
 		},
 		{
 			"key": "28",
@@ -394,12 +394,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/4Byhuz4Prxk",
 			"vids": [
 
 			],
 			"author": "ZillaGong",
-			"desc": ""
+			"desc": "This is some cancerous garbage and I apologise if you accidentally stumbled across this vomit worthy pile of fecal matter"
 		},
 		{
 			"key": "29",
@@ -408,12 +408,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/9LxtNNXWxk4",
 			"vids": [
 
 			],
 			"author": "ChaSe",
-			"desc": ""
+			"desc": "Make your way through cyber world, defeat the boss and escape! Huge thanks to Disp and HDanke for help! Vcc8 entry, my best level! Enjoy!"
 		},
 		{
 			"key": "30",
@@ -422,12 +422,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/hQtc__2dBkw",
 			"vids": [
 
 			],
 			"author": "Vrymer",
-			"desc": ""
+			"desc": "yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero /!\ flashing lights =) /!\ yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero"
 		},
 		{
 			"key": "31",
