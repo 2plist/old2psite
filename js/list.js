@@ -8,6 +8,11 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/AM2KHSZkjcc",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/AM2KHSZkjcc",
+					"user": "Motor8"
+				}
 
 			],
 			"author": "HidekiX",
@@ -24,13 +29,18 @@ const d = {
 			"vids": [
 				{
 					"percent": "100",
+					"link": "https://youtu.be/wu-t-yzCLgc",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
 					"link": "https://youtu.be/JCMeu1EUQqE",
 					"user": "random"
 				},
 				{
 					"percent": "100",
 					"link": "https://youtu.be/gFH_vqv2IS8",
-					"user": "batle"
+					"user": "Batle"
 				},
 
 			],
@@ -46,6 +56,37 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/8CkIYWN89fM",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/8CkIYWN89fM",
+					"user": "Grey749"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/_Q7Q5BiIPUg",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/DAR42s36gXY",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/fbwVhIXBb2A",
+					"user": "random"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/04Br8T-kwWQ",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/bUYtvGymU9A",
+					"user": "Batle"
+				},
+				
 
 			],
 			"author": "Danzmen",
@@ -60,7 +101,11 @@ const d = {
 			"hacked": false,
 			"verificationVid": "",
 			"vids": [
-
+				{
+					"percent": "100",
+					"link": "https://youtu.be/GwDUUlF5bsQ",
+					"user": "Motor8"
+				},
 			],
 			"author": "Alphirox",
 			"desc": "A little Based Gang spinoff verified by Dnuoz and NathanYAY during their meetup. The layout was also made by the two, go check them out :)"
@@ -74,6 +119,31 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/KsU0X2cII5Q",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KsU0X2cII5Q",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/QR6meut9wic",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/_Mmk4jmK92Y",
+					"user": "CooperSuper"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/iSYjFXI8bUU",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/x0skSoJB0jg",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "albinomaster",
@@ -88,6 +158,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/c3CYS12K_ls",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/c3CYS12K_ls",
+					"user": "xDon"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/e7QFcac8lXU",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/YPCBrVJ55eU?t=110",
+					"user": "Motor"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/HN3Vys-F8CI",
+					"user": "ATF"
+				},
 
 			],
 			"author": "NachoLag",
