@@ -644,7 +644,7 @@ const d = {
 			],
 			"author": "DYZEX",
 			"desc": "Nivel para el Creator Contest de IZhar!! Armadillo entrando en escena <3"
-		}
+		},
 	],
 
 	// The current version of the list. [x, y, z] is x.y.z.
