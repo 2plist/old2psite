@@ -199,7 +199,7 @@ const d = {
 				},
 				{
 					"percent": "100",
-					"link": "https://youtu.be/l91oe8qO-ao,
+					"link": "https://youtu.be/l91oe8qO-ao",
 					"user": "Sudar"
 				},
 				{
@@ -221,8 +221,8 @@ const d = {
 					"percent": "100",
 					"link": "https://youtu.be/02oNrDKnPdM",
 					"user": "ZingerX"
-				}, 
-
+				},
+				
 			],
 			"author": "Mulpan",
 			"desc": "Verified by Mul + Tition [Real 2-player Demon]"
