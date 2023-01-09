@@ -629,7 +629,7 @@ const d = {
 
 			],
 			"author": "16lord",
-			"desc": "Mi entrada al "Izhar100ksubsCC". He recreado mi propio Arre Robot :) Enjoy!! (Mini wave at 88% nerfed)"
+			"desc": "Mi entrada al \"Izhar100ksubsCC\". He recreado mi propio Arre Robot :) Enjoy!! (Mini wave at 88% nerfed)"
 		},
 		{
 			"key": "39",
