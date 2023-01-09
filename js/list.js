@@ -192,6 +192,36 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/IOMOcqO9-TQ",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/IOMOcqO9-TQ",
+					"user": "Plusxenon"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/l91oe8qO-ao,
+					"user": "Sudar"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/k8-ux5oiwy0",
+					"user": "Batle"
+				}, 
+				{
+					"percent": "100",
+					"link": "https://youtu.be/fWYswWZGL3E",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KJ1ok5iPYqw",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/02oNrDKnPdM",
+					"user": "ZingerX"
+				}, 
 
 			],
 			"author": "Mulpan",
