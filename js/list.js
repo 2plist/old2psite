@@ -526,12 +526,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/R6BpbOt914E",
 			"vids": [
 
 			],
 			"author": "Splenetic",
-			"desc": ""
+			"desc": "For steam users. Spacebar controls player 1, up arrow key controls player 2. Meant to be played by 1"
 		},
 		{
 			"key": "32",
@@ -540,12 +540,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/v3BcILk7Rss",
 			"vids": [
 
 			],
 			"author": "softable",
-			"desc": ""
+			"desc": "10k obj. SOF tiny express I Hop you enjoy! SECRET WAY CLOSED. HA . HA . HA ."
 		},
 		{
 			"key": "33",
@@ -554,12 +554,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/3qNJfYXmMm8",
 			"vids": [
 
 			],
 			"author": "Downstop",
-			"desc": ""
+			"desc": "Very late IZhar 100kCC entry. Weird remake of GhostTown, Arre Robot, aspects from other izhar lvls with weird art and a boss (from pikmin!)"
 		},
 		{
 			"key": "34",
@@ -568,12 +568,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/AyPtqCmjKiw",
 			"vids": [
 
 			],
 			"author": "DJ titanium",
-			"desc": ""
+			"desc": "LOL"
 		},
 		{
 			"key": "35",
@@ -582,12 +582,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/RvPQ_IExx5A",
 			"vids": [
 
 			],
 			"author": "TroxxP1",
-			"desc": ""
+			"desc": "Finally new level after several months, this time a little harder, try not to crash. Verified by Golden."
 		},
 		{
 			"key": "36",
@@ -596,12 +596,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/No_ITd04nIA",
 			"vids": [
 
 			],
 			"author": "soRakami",
-			"desc": ""
+			"desc": "coin added!-get the first key in the mountain,then you can get to secret room in the Angel Dragon's Area!"
 		},
 		{
 			"key": "37",
@@ -610,12 +610,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/ZMKlU0WIyoA",
 			"vids": [
 
 			],
 			"author": "izhar",
-			"desc": ""
+			"desc": "Podras montar a este revoltoso robot hasta la victoria? (Monedas y Contra en mi canal de YT)"
 		},
 		{
 			"key": "38",
@@ -624,12 +624,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/jD8lQxyM3gU",
 			"vids": [
 
 			],
 			"author": "16lord",
-			"desc": ""
+			"desc": "Mi entrada al "Izhar100ksubsCC". He recreado mi propio Arre Robot :) Enjoy!! (Mini wave at 88% nerfed)"
 		},
 		{
 			"key": "39",
@@ -638,12 +638,12 @@ const d = {
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/aivaEfKa4zc",
 			"vids": [
 
 			],
 			"author": "DYZEX",
-			"desc": ""
+			"desc": "Nivel para el Creator Contest de IZhar!! Armadillo entrando en escena <3"
 		}
 	],
 
