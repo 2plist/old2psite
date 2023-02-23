@@ -186,7 +186,7 @@ const d = {
 		  {
 			"key": "7",
 			"id": "10485394",
-			"name": "1 Comme le vent",
+			"name": "\ud83c\udf1f 1 Comme le vent",
 			"percentToQualify": "57",
 			"handcam": false,
 			"hacked": false,
@@ -486,7 +486,7 @@ const d = {
 		 {
 			"key": "26",
 			"id": "2318912",
-			"name": "Fish sleepwalking",
+			"name": "\ud83c\udf1f Fish sleepwalking",
 			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
