@@ -183,8 +183,26 @@ const d = {
 			"author": "NachoLag",
 			"desc": "wow that was insane :,v it took us like 10000 attempts to verify it, by me and Matowaar, pass on Yt, rate Demon :3 nerfed a lot. Updated"
 		},
-		{
+		  {
 			"key": "7",
+			"id": "10485394",
+			"name": "1 Comme le vent",
+			"percentToQualify": "57",
+			"handcam": false,
+			"hacked": false,
+			"verificationVid": "https://youtu.be/F59D3iUcdYk",
+			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/F59D3iUcdYk",
+					"user": "Motor8"
+				}
+			],
+			"author": "Ieena",
+			"desc": "Shortest Extra Long! Have fun with 3x speed!xp Minor Etude Series"
+		},
+		{
+			"key": "8",
 			"id": "60660086",
 			"name": "Multition",
 			"percentToQualify": "68",
@@ -228,7 +246,7 @@ const d = {
 			"desc": "Verified by Mul + Tition [Real 2-player Demon]"
 		},
 		{
-			"key": "8",
+			"key": "9",
 			"id": "69866281",
 			"name": "Arcane16",
 			"percentToQualify": "74",
@@ -242,7 +260,7 @@ const d = {
 			"desc": "verified with TanTrum1337 in 3200 attempts. Toilet paper"
 		},
 		{
-			"key": "9",
+			"key": "10",
 			"id": "26157409",
 			"name": "Elite Z Rebirth",
 			"percentToQualify": "64",
@@ -256,7 +274,7 @@ const d = {
 			"desc": "Updated version of elite z by PLAY 4075365, redesigned by AirSwipe and me."
 		},
 		{
-			"key": "10",
+			"key": "11",
 			"id": "40902405",
 			"name": "CholeriX",
 			"percentToQualify": "50",
@@ -270,7 +288,7 @@ const d = {
 			"desc": "My Final Megacollab, Extreme Demon, this was made in 2.0 update :) Verified by GK Allium (Check his YT). Video on my Channel ;)"
 		},
 		{
-			"key": "11",
+			"key": "12",
 			"id": "57359114",
 			"name": "Master Dual",
 			"percentToQualify": "100",
@@ -284,7 +302,7 @@ const d = {
 			"desc": "both teacher"
 		},
 		{
-			"key": "12",
+			"key": "13",
 			"id": "23298409",
 			"name": "Duelo Maestro",
 			"percentToQualify": "100",
@@ -298,7 +316,7 @@ const d = {
 			"desc": "El duelo de tus 2 manos o de 2 verdaderos maestros. El modo de 2 jugadores esta roto, asi que reinicien el nivel de vez en cuando..."
 		},
 		{
-			"key": "13",
+			"key": "14",
 			"id": "86284711",
 			"name": "Hex Masters Manor",
 			"percentToQualify": "100",
@@ -312,7 +330,7 @@ const d = {
 			"desc": "HEX MASTER Remake. Good Luck!"
 		},
 		{
-			"key": "14",
+			"key": "15",
 			"id": "43001774",
 			"name": "ApocalypseAfterParty",
 			"percentToQualify": "100",
@@ -326,7 +344,7 @@ const d = {
 			"desc": "What would you do if you were the last person on earth? Dedicated to Edicts."
 		},
 		{
-			"key": "15",
+			"key": "16",
 			"id": "62717112",
 			"name": "Cosmic Dolphin",
 			"percentToQualify": "100",
@@ -340,7 +358,7 @@ const d = {
 			"desc": "It will be amazing to travel and see the cosmic dolphins with your colleague or by yourself! My first megacollab finished with 15 people ;)"
 		},
 		{
-			"key": "16",
+			"key": "17",
 			"id": "68177479",
 			"name": "Funkin ",
 			"percentToQualify": "100",
@@ -354,7 +372,7 @@ const d = {
 			"desc": "Friday Night Funkin inspired two-player level! Beat it with a friend or by yourself! Art by TorchicZK & PhantomArcade"
 		},
 		{
-			"key": "17",
+			"key": "18",
 			"id": "64405105",
 			"name": "HEX MASTER",
 			"percentToQualify": "100",
@@ -368,7 +386,7 @@ const d = {
 			"desc": "This was supposed to be way longer level but decided to cut it down to +1min, inspired by Araneo by Darwin. Good luck with the duals ;)"
 		},
 		{
-			"key": "18",
+			"key": "19",
 			"id": "71850733",
 			"name": "Flappy Dynamix II",
 			"percentToQualify": "100",
@@ -382,7 +400,7 @@ const d = {
 			"desc": "After 6 years of wait, 1 year of work and 53k objs, heres the long awaited sequel to Flappy Dynamix. Very epic. Verified by NoobLookingPro"
 		},
 		{
-			"key": "19",
+			"key": "20",
 			"id": "5289002",
 			"name": "\ud83c\udf1f Leviathan",
 			"percentToQualify": "100",
@@ -396,7 +414,7 @@ const d = {
 			"desc": "Collab with ShockR. Has about 15k objects. More levels coming soon!"
 		},
 		{
-			"key": "20",
+			"key": "21",
 			"id": "61417841",
 			"name": "Halibut Cannon",
 			"percentToQualify": "100",
@@ -410,7 +428,7 @@ const d = {
 			"desc": "Everything is 1.9 except coins. Also 2-player duals :-) Good luck."
 		},
 		{
-			"key": "21",
+			"key": "22",
 			"id": "30861262",
 			"name": "Horntail Cave II",
 			"percentToQualify": "100",
@@ -424,7 +442,7 @@ const d = {
 			"desc": "Horntail is back..Can you beat it again?"
 		},
 		{
-			"key": "22",
+			"key": "23",
 			"id": "72224038",
 			"name": "Temple Profanators",
 			"percentToQualify": "100",
@@ -438,7 +456,7 @@ const d = {
 			"desc": "( Play with a friend) You and your friend entered an old, very old temple where you were not welcome... Made in 1 week, pass on my YouTube !"
 		},
 		{
-			"key": "23",
+			"key": "24",
 			"id": "15699542",
 			"name": "Absolute Meltdown",
 			"percentToQualify": "100",
@@ -452,7 +470,7 @@ const d = {
 			"desc": "A catastrophe has happened in a factory! A large container of magma spilled, now everything is on fire! Its hotter than your mixtape!333666"
 		},
 		{
-			"key": "24",
+			"key": "25",
 			"id": "7005127",
 			"name": "Horntail Cave",
 			"percentToQualify": "100",
@@ -465,8 +483,22 @@ const d = {
 			"author": "KeiAs",
 			"desc": "20K Objects! Can you beat it?"
 		},
+		 {
+			"key": "26",
+			"id": "2318912",
+			"name": "Fish sleepwalking",
+			"percentToQualify": "100",
+			"handcam": false,
+			"hacked": false,
+			"verificationVid": "https://youtu.be/InMXtxo1EU4?t=79",
+			"vids": [
+
+			],
+			"author": "rabbitdevil",
+			"desc": "You can play 2P mode?"
+		},
 		{
-			"key": "25",
+			"key": "27",
 			"id": "9962546",
 			"name": "10",
 			"percentToQualify": "100",
@@ -480,7 +512,7 @@ const d = {
 			"desc": "Pass is 101010."
 		},
 		{
-			"key": "26",
+			"key": "28",
 			"id": "47994830",
 			"name": "Star Power",
 			"percentToQualify": "100",
@@ -494,7 +526,7 @@ const d = {
 			"desc": "enjoy! :D"
 		},
 		{
-			"key": "27",
+			"key": "29",
 			"id": "13102433",
 			"name": "Ebony",
 			"percentToQualify": "100",
@@ -508,7 +540,7 @@ const d = {
 			"desc": "My new level \"Ebony\" Hope you guys like it! Also there is a low detail mode if its laggy... This lvl is for Dorami CC1"
 		},
 		{
-			"key": "28",
+			"key": "30",
 			"id": "10978740",
 			"name": "Choleric",
 			"percentToQualify": "100",
@@ -522,7 +554,7 @@ const d = {
 			"desc": "This is some cancerous garbage and I apologise if you accidentally stumbled across this vomit worthy pile of fecal matter"
 		},
 		{
-			"key": "29",
+			"key": "31",
 			"id": "32612656",
 			"name": "HyperDimension",
 			"percentToQualify": "100",
@@ -536,7 +568,7 @@ const d = {
 			"desc": "Make your way through cyber world, defeat the boss and escape! Huge thanks to Disp and HDanke for help! Vcc8 entry, my best level! Enjoy!"
 		},
 		{
-			"key": "30",
+			"key": "32",
 			"id": "77592888",
 			"name": "YOQUIERO",
 			"percentToQualify": "100",
@@ -550,7 +582,7 @@ const d = {
 			"desc": "yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero /!\ flashing lights =) /!\ yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero"
 		},
 		{
-			"key": "31",
+			"key": "33",
 			"id": "8969004",
 			"name": "Graveyard",
 			"percentToQualify": "100",
@@ -564,7 +596,7 @@ const d = {
 			"desc": "For steam users. Spacebar controls player 1, up arrow key controls player 2. Meant to be played by 1"
 		},
 		{
-			"key": "32",
+			"key": "34",
 			"id": "4891112",
 			"name": "Tiny Express",
 			"percentToQualify": "100",
@@ -578,7 +610,7 @@ const d = {
 			"desc": "10k obj. SOF tiny express I Hop you enjoy! SECRET WAY CLOSED. HA . HA . HA ."
 		},
 		{
-			"key": "33",
+			"key": "35",
 			"id": "62258138",
 			"name": "Phosbat Cave",
 			"percentToQualify": "100",
@@ -592,7 +624,7 @@ const d = {
 			"desc": "Very late IZhar 100kCC entry. Weird remake of GhostTown, Arre Robot, aspects from other izhar lvls with weird art and a boss (from pikmin!)"
 		},
 		{
-			"key": "34",
+			"key": "36",
 			"id": "2080527",
 			"name": "Invaders",
 			"percentToQualify": "100",
@@ -606,7 +638,7 @@ const d = {
 			"desc": "LOL"
 		},
 		{
-			"key": "35",
+			"key": "37",
 			"id": "58364131",
 			"name": "Fracture Breaker",
 			"percentToQualify": "100",
@@ -620,7 +652,7 @@ const d = {
 			"desc": "Finally new level after several months, this time a little harder, try not to crash. Verified by Golden."
 		},
 		{
-			"key": "36",
+			"key": "38",
 			"id": "1717018",
 			"name": "Dragon Force",
 			"percentToQualify": "100",
@@ -634,7 +666,7 @@ const d = {
 			"desc": "coin added!-get the first key in the mountain,then you can get to secret room in the Angel Dragon's Area!"
 		},
 		{
-			"key": "37",
+			"key": "39",
 			"id": "52917530",
 			"name": "ARRE Robot",
 			"percentToQualify": "100",
@@ -648,7 +680,7 @@ const d = {
 			"desc": "Podras montar a este revoltoso robot hasta la victoria? (Monedas y Contra en mi canal de YT)"
 		},
 		{
-			"key": "38",
+			"key": "40",
 			"id": "61139219",
 			"name": "ARRE Toro",
 			"percentToQualify": "100",
@@ -662,7 +694,7 @@ const d = {
 			"desc": "Mi entrada al \"Izhar100ksubsCC\". He recreado mi propio Arre Robot :) Enjoy!! (Mini wave at 88% nerfed)"
 		},
 		{
-			"key": "39",
+			"key": "41",
 			"id": "61656103",
 			"name": "Claim Our Throne",
 			"percentToQualify": "100",
