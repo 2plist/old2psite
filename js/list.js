@@ -254,6 +254,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/5ebS5vqy-bk",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/5ebS5vqy-bk",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/YHcVuzim6VY",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/2_3g6kllWlA",
+					"user": "Zest"
+				}, 
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JG7u4js8efM",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "LCynox",
@@ -277,7 +297,7 @@ const d = {
 			"key": "11",
 			"id": "40902405",
 			"name": "CholeriX",
-			"percentToQualify": "50",
+			"percentToQualify": "100",
 			"handcam": false,
 			"hacked": false,
 			"verificationVid": "https://youtu.be/wkdYwF13QNA",
