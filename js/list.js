@@ -103,6 +103,11 @@ const d = {
 			"vids": [
 				{
 					"percent": "100",
+					"link": "https://youtu.be/vVchK_0UDHE",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
 					"link": "https://youtu.be/GwDUUlF5bsQ",
 					"user": "Motor8"
 				},
@@ -288,7 +293,36 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/B1GKgUNT8Q0",
 			"vids": [
-
+				{
+					"percent": "100",
+					"link": "https://youtu.be/B1GKgUNT8Q0",
+					"user": "KrmaL"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/sOOXefqfwnU",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KJu0KjNnQEs",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/8MMA3w-aOqc",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/hTOSztZdDdM",
+					"user": "HurricaneL"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/XLDs5eX1SSk",
+					"user": "vitamin227"
+				},
 			],
 			"author": "KrMaL",
 			"desc": "Updated version of elite z by PLAY 4075365, redesigned by AirSwipe and me."
@@ -302,6 +336,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/wkdYwF13QNA",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/wkdYwF13QNA",
+					"user": "Allium"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/1OnVI5IBaiQ",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/4Jp33aoDkjE",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/tAvskVGrrqA?t=5",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "shaggy23",
@@ -316,6 +370,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/oME6XOYpWTM",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/oME6XOYpWTM",
+					"user": "Zylenox"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/VdxNUm_v-yk",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/VMhNmyhGros?t=421",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JgzM_HtdwXA",
+					"user": "ATF"
+				},
 
 			],
 			"author": "Zylenox",
