@@ -404,6 +404,36 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/73pRiolPwTA",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/73pRiolPwTA",
+					"user": "SrGuillester"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/6Tz8bbqRSQ0",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/-XIydOT9-0E",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/w7LQx1LsYvE					",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/MzSv1wwRLQc",
+					"user": "Emilian"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/WD5R6fwDm_c",
+					"user": "ipickyourpocket"
+				},
 
 			],
 			"author": "Nacho21",
@@ -418,6 +448,21 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/KbAUc_6fCPI",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KbAUc_6fCPI",
+					"user": "Custi"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/InMXtxo1EU4?t=123",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/6DjE-S0S9W8",
+					"user": "ATF"
+				},
 
 			],
 			"author": "Custi",
@@ -432,6 +477,23 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/Q-kZ2swRSAI",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/Q-kZ2swRSAI",
+					"user": "WHErwin"
+				},
+				
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KN-j71q4IvQ",
+					"user": "Zest"
+				},
+				
+				{
+					"percent": "100",
+					"link": "https://youtu.be/tAvskVGrrqA?t=79",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "WHErwin",
@@ -446,6 +508,31 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/VW_N4hZ-hrE",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/VW_N4hZ-hrE",
+					"user": "xDon"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/OWp1nCZJenI",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/hz8w4qferPM",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/gmjdYSNGL1A?t=146",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/cLPAAjmP69E",
+					"user": "Graydient"
+				},
 
 			],
 			"author": "xDon",
@@ -460,6 +547,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/n4wOh8dpWc0",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/vG9eQleOWKI",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/ZOUAj4zNd78",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/OQkGX-9pUbo",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/gmjdYSNGL1A?t=6",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "Bluskys",
@@ -474,7 +581,36 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/vZr9-BJrzKg",
 			"vids": [
-
+				{
+					"percent": "100",
+					"link": "https://youtu.be/vZr9-BJrzKg",
+					"user": "NoobLookingPro"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/aALXXNLjWM0",
+					"user": "PrankOrigami"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/mIO1FdYVHcY",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JzsaK_WodEA",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/nS3dlpvWBAw",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/LV0318OWLKw?t=379",
+					"user": "Motor8"
+				},
 			],
 			"author": "Custi",
 			"desc": "This was supposed to be way longer level but decided to cut it down to +1min, inspired by Araneo by Darwin. Good luck with the duals ;)"
@@ -488,6 +624,26 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/CYD2qPacHxM",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "ttps://youtu.be/CYD2qPacHxM",
+					"user": "NoobLookingPro"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/LtsbnNy7gy0",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/xOsN50bi0cw",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/gmjdYSNGL1A?t=234",
+					"user": "Motor8"
+				},
 
 			],
 			"author": "RadiationV2",
@@ -502,6 +658,21 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/-jugAwY_xzk",
 			"vids": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/-jugAwY_xzk",
+					"user": "KPGDylan"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/nJpYcGybJnw?t=210",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/FIyEK9u2zWs",
+					"user": "ATF"
+				},
 
 			],
 			"author": "KaptainCPU",
@@ -516,7 +687,6 @@ const d = {
 			"hacked": false,
 			"verificationVid": "https://youtu.be/3exqGWo9LNw",
 			"vids": [
-
 			],
 			"author": "Custi",
 			"desc": "Everything is 1.9 except coins. Also 2-player duals :-) Good luck."
